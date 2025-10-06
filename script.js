@@ -3,7 +3,7 @@
 // ==================================================================
 const links = {
   // LINK DEFAULT WAJIB ADA. Arahkan ini ke URL halaman error Anda.
-    "default": "https://vianovi.github.io/Default_pages/",
+    "default": "https://vianovi.github.io/Default_pages/index.html",
 
   // Daftar URL tujuan dengan kata kunci
     "simulasi": "https://docs.google.com/forms/d/e/1FAIpQLSee8sYM0UhNvIzGp1NSG6pLJsmkw-dlcrTKewDHwCYIbvUVcw/viewform?usp=dialog",
